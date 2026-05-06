@@ -4,7 +4,7 @@ MacOS,eclipse2026-6,javaSE-21,javaparser-core-3.25.10.jar,javaFX-sdk-21.0.8
 # VM引数はこれを使いました。環境に合わせてパスを変えてください。
 --module-path "/Users/ir/development/javafx-sdk-21.0.8/lib" --add-modules javafx.controls,javafx.fxml
 # 実行手順
-1.srcのnew_refuctaringのクラスたちをeclipseにインポートしてください
+1.srcのnew_refactoring_uml_packageをeclipseにインポートしてください
 2.javafx をビルドパスしてください
 3.VM引数を設定してください
 4.main.javaを実行してください
