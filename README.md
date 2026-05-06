@@ -1,7 +1,7 @@
 # javaソースコードUMLクラス図変換プログラム
 # ライブラリと実行環境
 MacOS,eclipse2026-6,javaSE-21,javaparser-core-3.25.10.jar,javaFX-sdk-21.0.8
-# VM引数はこれを使いました。環境に合わせてパスを変えてください。
+# VM引数です。環境に合わせてパスを変えてください。
 --module-path "/Users/ir/development/javafx-sdk-21.0.8/lib" --add-modules javafx.controls,javafx.fxml
 # 実行手順
 1.srcのnew_refactoring_uml_packageをeclipseにインポートしてください
